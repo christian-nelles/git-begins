@@ -1,6 +1,6 @@
 CLONER UN REPOSITORY :
 
-git clone https://github.com/christian-nelles/*lien-du-repository*
+git clone https://github.com/christian-nelles/<url>
 
 
 
@@ -9,3 +9,9 @@ LES 3 COMMANDES DE PUSH :
 git remote add origin https://github.com/christian-nelles/git-begins.git
 git branch -M main
 git push -u origin main
+
+
+
+LA COMMANDE DE PULL :
+
+git pull <remote> <branch>

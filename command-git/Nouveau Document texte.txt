@@ -18,6 +18,7 @@ git pull <remote> <branch>
 
 
 
-LA COMMANDE DE CRÉATION D'UNE BRANCHE :
+LA COMMANDE POUR CRÉER/SWITCHER D'UNE BRANCHE :
 
 git checkout -b ＜new-branch＞
+git checkout ＜branchname＞
